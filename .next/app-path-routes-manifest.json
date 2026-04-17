@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/auth/callback/page": "/auth/callback",
+  "/auth/signin/page": "/auth/signin",
+  "/auth/signup/page": "/auth/signup",
+  "/dashboard/[slug]/assets/page": "/dashboard/[slug]/assets",
+  "/dashboard/[slug]/projects/page": "/dashboard/[slug]/projects",
+  "/dashboard/[slug]/settings/page": "/dashboard/[slug]/settings",
+  "/dashboard/page": "/dashboard",
+  "/onboarding/page": "/onboarding",
+  "/page": "/"
+}

@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[47419,["/_next/static/chunks/0jm6b50flv99y.js","/_next/static/chunks/0x_v4se--~066.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"flex min-h-screen flex-col items-center justify-center p-24","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Welcome to BrandCraft"}],["$","p",null,{"className":"text-lg text-gray-600 mb-8","children":"Multi-Tenant Brand Identity Generation & Management"}],["$","div",null,{"className":"flex gap-4","children":[["$","a",null,{"href":"/auth/signup","className":"px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition","children":"Get Started"}],["$","a",null,{"href":"/dashboard","className":"px-6 py-3 border border-gray-300 rounded-lg hover:bg-gray-50 transition","children":"Go to Dashboard"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"M9xcjYDeSeKoTJKd_mPd_"}
+4:null

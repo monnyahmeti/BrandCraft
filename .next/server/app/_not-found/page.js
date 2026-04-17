@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0hnxw.-._.js")
+R.c("server/chunks/ssr/08m__next_dist_esm_build_templates_app-page_0.bzpst.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0yiiyxb._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0zfnsbb._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__12-hwr-._.js")
+R.c("server/chunks/ssr/08m__next_dist_client_components_0i-5f2a._.js")
+R.c("server/chunks/ssr/08m__next_dist_client_components_builtin_forbidden_00ser2-.js")
+R.c("server/chunks/ssr/08m__next_dist_client_components_builtin_unauthorized_06_qjyq.js")
+R.c("server/chunks/ssr/Desktop_BrandCraft_BrandCraft_00tcj27._.js")
+R.c("server/chunks/ssr/Desktop_BrandCraft_BrandCraft_0k7.dz0._.js")
+R.m(43177)
+module.exports=R.m(43177).exports

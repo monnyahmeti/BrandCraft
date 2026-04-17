@@ -1,0 +1,3 @@
+module.exports=[47900,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(86887);a.n(d("[project]/Desktop/BrandCraft/BrandCraft/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},29826,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(86887);a.n(d("[project]/Desktop/BrandCraft/BrandCraft/node_modules/next/dist/client/components/builtin/global-error.js"))},38223,a=>{"use strict";a.i(47900);var b=a.i(29826);a.n(b)},87918,a=>{a.n(a.i(38223))}];
+
+//# sourceMappingURL=08m__next_dist_client_components_builtin_global-error_0y0fb9y.js.map

@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/callback/page": "app/auth/callback/page.js",
+  "/auth/signin/page": "app/auth/signin/page.js",
+  "/auth/signup/page": "app/auth/signup/page.js",
+  "/dashboard/[slug]/assets/page": "app/dashboard/[slug]/assets/page.js",
+  "/dashboard/[slug]/projects/page": "app/dashboard/[slug]/projects/page.js",
+  "/dashboard/[slug]/settings/page": "app/dashboard/[slug]/settings/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/onboarding/page": "app/onboarding/page.js",
+  "/page": "app/page.js"
+}
