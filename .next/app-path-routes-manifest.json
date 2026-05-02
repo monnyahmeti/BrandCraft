@@ -1,7 +1,7 @@
 {
   "/_global-error/page": "/_global-error",
   "/_not-found/page": "/_not-found",
-  "/auth/callback/page": "/auth/callback",
+  "/auth/callback/route": "/auth/callback",
   "/auth/signin/page": "/auth/signin",
   "/auth/signup/page": "/auth/signup",
   "/dashboard/[slug]/assets/page": "/dashboard/[slug]/assets",

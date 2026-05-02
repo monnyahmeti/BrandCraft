@@ -104,7 +104,7 @@ self.__SERVER_FILES_MANIFEST={
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\pc",
+    "outputFileTracingRoot": "C:\\Users\\pc\\Desktop\\BC\\BrandCraft",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -304,12 +304,12 @@ self.__SERVER_FILES_MANIFEST={
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.js",
     "turbopack": {
-      "root": "C:\\Users\\pc"
+      "root": "C:\\Users\\pc\\Desktop\\BC\\BrandCraft"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "C:\\Users\\pc\\Desktop\\BrandCraft\\BrandCraft",
-  "relativeAppDir": "Desktop\\BrandCraft\\BrandCraft",
+  "appDir": "C:\\Users\\pc\\Desktop\\BC\\BrandCraft",
+  "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
     ".next\\server\\pages-manifest.json",
