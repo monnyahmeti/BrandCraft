@@ -1,10 +1,17 @@
 import { createServerClient } from '@supabase/ssr'
 import { NextResponse, type NextRequest } from 'next/server'
 
+function getSafeNextPath(nextParam: string | null): string {
+  if (!nextParam) return '/onboarding'
+  if (!nextParam.startsWith('/')) return '/onboarding'
+  if (nextParam.startsWith('//')) return '/onboarding'
+  return nextParam
+}
+
 export async function GET(request: NextRequest) {
   const requestUrl = new URL(request.url)
   const code = requestUrl.searchParams.get('code')
-  const next = requestUrl.searchParams.get('next') ?? '/onboarding'
+  const next = getSafeNextPath(requestUrl.searchParams.get('next'))
 
   if (!code) {
     return NextResponse.redirect(new URL('/auth/signin?error=missing_code', request.url))
